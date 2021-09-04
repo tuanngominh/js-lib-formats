@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "login": "npm login",
     "release": "standard-version",
-    "publisha": "npm publish --access=public"
+    "publish-to-npm": "npm publish --access=public"
   },
   "author": "",
   "license": "ISC",
