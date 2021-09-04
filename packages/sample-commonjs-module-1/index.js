@@ -3,6 +3,7 @@ function square(x) {
 }
 
 function squareRoot(x) {
+    // some comment
     return Math.sqrt(x);
 }
 
