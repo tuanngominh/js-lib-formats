@@ -1,0 +1,17 @@
+{
+  "name": "@tuanngo/sample-commonjs-module-1",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "login": "npm login",
+    "release": "standard-version",
+    "publish": "npm publish --access=public"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "standard-version": "^9.3.1"
+  }
+}
